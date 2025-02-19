@@ -140,11 +140,11 @@ rl.question("Enter the desired number of processes: ", (answer) => {
 });
 
 
-echo "Setup completed successfully!"
+console.log("Setup completed successfully!");
 
-# Final message
-echo "***************************************"
-echo "*                                     *"
-echo "*     Thank you for participating!    *"
-echo "*                                     *"
-echo "***************************************"
+console.log("***************************************");
+console.log("*                                     *");
+console.log("*     Thank you for participating!    *");
+console.log("*                                     *");
+console.log("***************************************");
+
