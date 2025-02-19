@@ -119,11 +119,11 @@ cfonts.say("CryptoAirdropHindi", {
 });
 
 console.log("=== Telegram Channel : CryptoAirdropHindi (@CryptoAirdropHindi) ===", "\x1b[36m");
-console.log("Follow us on social media for updates and more:");
-console.log("📱 Telegram: https://t.me/Crypto_airdropHM");
-console.log("🎥 YouTube: https://www.youtube.com/@CryptoAirdropHindi6");
-console.log("💻 GitHub Repo: https://github.com/CryptoAirdropHindi/");
-
+console.log("===Follow us on social media for updates and more===:");
+console.log("===📱 Telegram: https://t.me/Crypto_airdropHM===");
+console.log("===🎥 YouTube: https://www.youtube.com/@CryptoAirdropHindi6===");
+console.log("===💻 GitHub Repo: https://github.com/CryptoAirdropHindi/===");
+------------------------------------------------------------------------------------------------
 
 rl.question("Enter the desired number of processes: ", (answer) => {
     const processCount = parseInt(answer, 10);
@@ -139,3 +139,13 @@ rl.question("Enter the desired number of processes: ", (answer) => {
     }
     rl.close();
 });
+
+
+echo "Setup completed successfully!"
+
+# Final message
+echo "***************************************"
+echo "*                                     *"
+echo "*     Thank you for participating!    *"
+echo "*                                     *"
+echo "***************************************"
