@@ -123,7 +123,6 @@ console.log("===Follow us on social media for updates and more===:");
 console.log("===📱 Telegram: https://t.me/Crypto_airdropHM===");
 console.log("===🎥 YouTube: https://www.youtube.com/@CryptoAirdropHindi6===");
 console.log("===💻 GitHub Repo: https://github.com/CryptoAirdropHindi/===");
-------------------------------------------------------------------------------------------------
 
 rl.question("Enter the desired number of processes: ", (answer) => {
     const processCount = parseInt(answer, 10);
