@@ -138,13 +138,3 @@ rl.question("Enter the desired number of processes: ", (answer) => {
     }
     rl.close();
 });
-
-
-console.log("Setup completed successfully!");
-
-console.log("***************************************");
-console.log("*                                     *");
-console.log("*     Thank you for participating!    *");
-console.log("*                                     *");
-console.log("***************************************");
-
